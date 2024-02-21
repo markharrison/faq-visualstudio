@@ -10,7 +10,7 @@ const config = {
   title: 'Visual Studio',
   tagline: 'xxxx',
   url: 'https://markharrison.io',
-  baseUrl: '/visualstudio/',
+  baseUrl: '/faq-visualstudio/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
