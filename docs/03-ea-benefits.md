@@ -7,7 +7,7 @@ slug: /eabenefits
 
 ## Buying Visual Studio
 
-Several ways to buy Visual Studio subscriptions:
+There are several ways to buy Visual Studio subscriptions:
 - License reseller – on an Enterprise Agreement, others
 - Azure Marketplace
 - Retail e.g., Microsoft Store ... unlikely route for enterprise organisation
