@@ -66,7 +66,7 @@ const config = {
             label: 'Visual Studio',
           },
           {
-            href: 'https://github.com/markharrison/visualstudio',
+            href: 'https://github.com/markharrison/faq-visualstudio',
             label: 'GitHub',
             position: 'right'
           },
