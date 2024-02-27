@@ -5,6 +5,8 @@ slug: /eabenefits
 
 # Visual Studio on EA Benefits
 
+Customers who have Enterprise Agreements (EA) with Microsoft are eligible to purchase a subscription offer that brings together Visual Studio standard subscriptions and GitHub Enterprise. It's the easy and economical way for Visual Studio subscribers to acquire GitHub Enterprise.
+
 ## Buying Visual Studio
 
 There are several ways to buy Visual Studio subscriptions:
@@ -35,3 +37,8 @@ Visual Studio subscriptions on an EA get the following benefits:
 - Support 
 - Power BI Pro (VS Ent)
 - C# Dev Kit [link](https://devblogs.microsoft.com/visualstudio/announcing-csharp-dev-kit-for-visual-studio-code/) [link](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
+
+
+## Set up for VS+GHE licenses
+
+Set up GitHub Enterprise licenses with Visual Studio subscriptions [link](https://learn.microsoft.com/en-us/visualstudio/subscriptions/assign-github)
