@@ -21,6 +21,8 @@ Buying on an EA is cheaper
 - Az VS Subscription-Pro Monthly-1 User  is $45 per month   ($540 per year)
 - Visual Studio Professional MSDN License and Software Assurance [Level A] is $455.48 per year  ($455.60 with GHE)
 
+![graphic](images/VS-EA-benefits.jpg)
+
 
 ## EA Benefits
 
